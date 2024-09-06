@@ -7,4 +7,4 @@
 Recent Data Visualization Projects:
 
 Members Attendance at YM&YWHA 
-![](https://raw.githubusercontent.com/NevesLaura-NP/NevesLaura-NP/main/Attendance (2).png)
+![](https://raw.githubusercontent.com/NevesLaura-NP/NevesLaura-NP/main/Attendance.png)
